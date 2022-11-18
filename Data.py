@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-Pᴏᴡᴇʀᴇᴅ  Bʏ: [SUSHIL](https://t.me/iSUSHIL)
+Pᴏᴡᴇʀᴇᴅ  Bʏ: [SUSHIL](https://t.me/MrSushilOP)
     """
 
     # Home Button
@@ -67,5 +67,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @iSUSHIL
+Developer : @MrSushilOP
     """
